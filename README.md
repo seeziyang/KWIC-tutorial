@@ -16,5 +16,8 @@ After installing Maven, you should be able to Import the project into the Eclips
 
 Refer to [this guide](http://stackoverflow.com/questions/2061094/importing-maven-project-into-eclipse) if you meet any issues for importing.
 
+## Import project to IntelliJ IDE
+Click "Import Project" on IntelliJ.
+
 ## Run the project
 You can run the program from [App.java](https://github.com/Gisonrg-in-NUS/KWIC-demo/blob/master/src/main/java/sg/edu/nus/comp/cs3219/App.java).
